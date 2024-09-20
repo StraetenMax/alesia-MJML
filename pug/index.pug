@@ -3,8 +3,8 @@ extends templates/_layout
 block content
     //- Logo
     mj-section(background-color='#23afd0' padding="10px 25px")
-        mj-column
-            mj-image
+        mj-column(align="center")
+            mj-image(padding="0" src="https://jlzu.mjt.lu/img2/jlzu/45be2fd0-5096-4132-a329-7b3ad45ccd04/content" alt="logo" width="100px")
     //- Hero text
     mj-section(background-color="#293137" padding="0px 25px")
         mj-column
@@ -17,10 +17,30 @@ block content
         mj-column
             mj-image
     //- Texte de l'annonce
+    mj-section(background-color="#23AFD0" padding="0px 25px")
+        mj-column
+            mj-text
+                p Voici notre sélection exclusive de candidat(e)s à retrouver dans notre CVthèque :
+                p Romane 20 ans, CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.
+                p Aide possible de l'État à hauteur de 6 000 €
+                p Des candidatures retiennent votre attention ? N'hésitez pas à prendre contact avec nous sur contact@alesiaformation.fr
+                p Cordialement,
+                p L'Équipe Alésia Formation.    
     //- Call to action
+    mj-section(background-color="#23AFD" padding="10px 25px")
+        mj-column
+            mj-button Je consulte  la CVthèque
     //- Réseaux sociaux
+    mj-section(background-color="#23AFD" padding="10px 25px")
+        mj-column
+            mj-sociaux
+                mj-element-sociaux 
+                mj-element-sociaux 
+                mj-element-sociaux 
+                mj-element-sociaux 
+                mj-element-sociaux 
     //- Réglement
-    mj-section
+    mj-section(padding="0 20px")
         mj-column
             mj-text This e-mail was sent to contact@ecosup-sante.fr because you've opted-in to receive news and promotional emails from us. Click here to unsubscribe.
      
