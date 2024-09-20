@@ -35,13 +35,13 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#f2f2f2">      
-    <mj-section background-color="#23afd0" padding="10px 25px">
+  <mj-body background-color="#ffffff">      
+    <mj-section background-color="#EDF2F7" padding="10px 25px">
       <mj-column>
-        <mj-image align="center" padding="0" src="https://jlzu.mjt.lu/img2/jlzu/45be2fd0-5096-4132-a329-7b3ad45ccd04/content" alt="logo" width="100px"></mj-image>
+        <mj-image align="center" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" alt="logo" width="100px"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#293137" padding="0px 25px">
+    <mj-section background-color="#270938" padding="0px 25px">
       <mj-column>
         <mj-text align="center" font-family="Open Sans, Helvetica, Arial, sans-serif" color="#ffffff" padding="0">
           <h1 style="margin:10px 0 17,42px 0;font-size:55px;font-weight:700;line-height:55px;">Votre assistant(e) adminstratif(ve) en alternance</h1>
@@ -72,20 +72,20 @@
         <mj-button align="center" padding="0" font-family="Arial,sans-serif" font-size="16px" font-weight="500" line-height="16px">Je consulte la CVthèque</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#1e94ae" padding="10px 25px">
+    <mj-section background-color="#270938" padding="10px 25px">
       <mj-column>
-        <mj-social padding="0" icon-size="30px" inner-padding="4px">
-          <mj-social-element background-color="#395498" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
-          <mj-social-element background-color="#cb04af" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
-          <mj-social-element background-color="#ff0000" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
-          <mj-social-element background-color="#0184ca" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
-          <mj-social-element background-color="#000000" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/tiktok.png"></mj-social-element>
+        <mj-social padding="0" icon-size="30px" inner-padding="10px">
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/tiktok.png"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
       <mj-column>
-        <mj-text align="center" font-family="Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="32px" color="#27272b">This e-mail was sent to contact@ecosup-sante.fr because you've opted-in to receive news and promotional emails from us. Click <a style="color:#000000" href="{{ unsubscribe }}">here</a> to unsubscribe.</mj-text>
+        <mj-text align="center" font-family="Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px" color="#27272b">Cet e-mail a été adressé à contact@ecosup-sante.fr parce que  you've opted-in to receive news and promotional emails from us. Click <a style="color:#000000" href="{{ unsubscribe }}">here</a> to unsubscribe.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
