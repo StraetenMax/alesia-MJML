@@ -50,7 +50,7 @@
     <mj-section background-color="#1e94ae" padding="0px 25px">
       <mj-column>
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="16px">
-          <p style="margin:10px 0 33px 0;color:#ffffff;">Voici notre sélection exclusive de candidat(e)s à retrouver dans notre CVthèque :</p>
+          <p style="margin:10px 0 33px 0;color:#ffffff;">Voici notre sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">CVthèque :</a></p>
           <p style="margin:10px 0 33px 0;color:#ffffff;"><span style="color:#3f4b5c;">Romane 20 ans,</span> CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
           <p style="margin:10px 0 33px 0;color:#ffffff;">Aide possible de l'État à hauteur de 6 000 €</p>
           <p style="margin:10px 0;color:#3f4b5c;">Des candidatures retiennent votre attention ? N'hésitez pas à prendre contact avec nous sur contact@alesiaformation.fr</p>
@@ -67,17 +67,17 @@
     <mj-section background-color="#1e94ae" padding="10px 25px">
       <mj-column>
         <mj-social padding="0" icon-size="30px" inner-padding="4px">
-          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
-          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
+          <mj-social-element background-color="#395498" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#cb04af" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
           <mj-social-element background-color="#ff0000" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
-          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#0184ca" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
           <mj-social-element background-color="#000000" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/tiktok.png"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
       <mj-column>
-        <mj-text align="center" font-family="Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="32px" color="#27272b">This e-mail was sent to contact@ecosup-sante.fr because you've opted-in to receive news and promotional emails from us. Click here to unsubscribe.</mj-text>
+        <mj-text align="center" font-family="Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="32px" color="#27272b">This e-mail was sent to contact@ecosup-sante.fr because you've opted-in to receive news and promotional emails from us. Click <a style="color:#000000" href="{{ unsubscribe }}">here</a> to unsubscribe.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
