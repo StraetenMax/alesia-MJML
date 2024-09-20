@@ -38,7 +38,7 @@
   <mj-body background-color="#ffffff">      
     <mj-section background-color="#EDF2F7" padding="10px 25px">
       <mj-column>
-        <mj-image align="center" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" alt="logo" width="100px"></mj-image>
+        <mj-image align="center" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" alt="logo" width="160px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="0px 25px">
@@ -58,34 +58,44 @@
     <mj-section background-color="#1e94ae" padding="0px 25px">
       <mj-column>
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="16px">
-          <p style="margin:10px 0 33px 0;color:#ffffff;">Voici notre sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">CVthèque :</a></p>
+          <p style="margin:10px 0 33px 0;color:#ffffff;">Voici une sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">cvBook :</a></p>
           <p style="margin:10px 0 33px 0;color:#ffffff;"><span style="color:#3f4b5c;">Romane 20 ans,</span> CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
           <p style="margin:10px 0 33px 0;color:#ffffff;">Aide possible de l'État à hauteur de 6 000 €</p>
           <p style="margin:10px 0;color:#3f4b5c;">Des candidatures retiennent votre attention ? N'hésitez pas à prendre contact avec nous sur contact@alesiaformation.fr</p>
           <p style="margin:10px 0;color:#ffffff;">Cordialement,</p>
-          <p style="margin:10px 0 33px 0;color:#ffffff;">L'Équipe Alésia Formation.    </p>
+          <p style="margin:10px 0 33px 0;color:#ffffff;">Christian Annaloro, responsable pédagogique d'écosup assurance.    </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#23AFD0" padding="10px 25px">
       <mj-column>
-        <mj-button align="center" padding="0" font-family="Arial,sans-serif" font-size="16px" font-weight="500" line-height="16px">Je consulte la CVthèque</mj-button>
+        <mj-button align="center" padding="0" font-family="Arial,sans-serif" font-size="16px" font-weight="500" line-height="16px">Je consulte le cvBook</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="10px 25px">
       <mj-column>
         <mj-social padding="0" icon-size="30px" inner-padding="10px">
-          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#111111" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
           <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
           <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
           <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
-          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/tiktok.png"></mj-social-element>
         </mj-social>
       </mj-column>
+      <mj-column width="320px" padding="20px 0">
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+      </mj-column>
     </mj-section>
-    <mj-section padding="0 20px">
-      <mj-column>
-        <mj-text align="center" font-family="Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px" color="#27272b">Cet e-mail a été adressé à contact@ecosup-sante.fr parce que  you've opted-in to receive news and promotional emails from us. Click <a style="color:#000000" href="{{ unsubscribe }}">here</a> to unsubscribe.</mj-text>
+    <mj-section padding="20px 32px">
+      <mj-column width="320px">
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#27272b"> 
+          <p style="margin:0px">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;font-size:12px;font-weight:300" href="{{ mirror}}">ici</a>           </p>
+          <p style="margin:0px">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#27272b;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</p>
+          <p style="margin:0px">Pour vous désinscrire, cliquez <a style="color:#BA4995;font-size:12px;font-weight:300;" href="{{ unsubscribe }}">ici</a></p>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>

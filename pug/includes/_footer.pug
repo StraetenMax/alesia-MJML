@@ -2,15 +2,20 @@
 mj-section(background-color="#270938" padding="10px 25px")
     mj-column
         mj-social(padding="0" icon-size="30px" inner-padding="10px")
-            mj-social-element(src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png")
+            mj-social-element(background-color="#111111" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png")
             mj-social-element(src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png")
             mj-social-element(src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png")
             mj-social-element(src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png")
-            mj-social-element(src="https://www.mailjet.com/images/theme/v1/icons/ico-social/tiktok.png")
-//- Réglement
-mj-section(padding="0 20px")
-    mj-column
-        mj-text(align="center" font-family="Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px" color="#27272b") Cet e-mail a été adressé à contact@ecosup-sante.fr parce que  you've opted-in to receive news and promotional emails from us. Click #[a(style="color:#000000" href="{{ unsubscribe }}") here] to unsubscribe.
-     
-    
+    mj-column(width='320px' padding="20px 0")
+        mj-image(width='140px' padding='0' border='none' align='center' target='_blank' src='https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png' href='https://ecosup-campus.com' alt='Logo Ecosup Campus')/
+        mj-text(padding='0' align='center' font-size='12px' font-weight='300' line-height='16px' color='#fcfcfc') 17 rue Charles et Albert Roussel
+        mj-text(padding='0' align='center' font-size='12px' font-weight='300' line-height='16px' color='#fcfcfc' text-transform='uppercase') 59200 Tourcoing
+        mj-text(padding='0' align='center' font-size='12px' font-weight='700' line-height='16px' color='#fcfcfc') #[a(style='text-decoration:none;color:#fcfcfc;' href='tel:0320700606') Tél 03.20.70.06.06]               
+        mj-text(padding='0' align='center' font-size='12px' font-weight='300' line-height='16px' color='#fcfcfc') #[a(style='text-decoration:none;color:#fcfcfc;' href='mailto:contact@ecosup-campus.fr') contact@ecosup-campus.fr]
+mj-section(padding='20px 32px')
+    mj-column(width="320px")
+        mj-text(padding='0' align='center' font-size='12px' font-weight='300' line-height='16px' color='#27272b') 
+            p(style="margin:0px") Si vous n'arrivez pas à lire cet email, cliquez #[a(style='color:#BA4995;font-size:12px;font-weight:300' href='{{ mirror}}') ici]           
+            p(style="margin:0px") Pour être sûr(e) de recevoir nos communications, ajoutez #[a(style='text-decoration:none;color:#27272b;' href='mailto:contact@ecosup-campus.fr') contact@ecosup-campus.fr] dans votre carnet d'adresses.
+            p(style="margin:0px") Pour vous désinscrire, cliquez #[a(style='color:#BA4995;font-size:12px;font-weight:300;' href='{{ unsubscribe }}') ici]
     
