@@ -35,8 +35,8 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#ffffff">      
-    <mj-section background-color="#EDF2F7" padding="10px 25px">
+  <mj-body background-color="#15191e">      
+    <mj-section padding="10px 25px">
       <mj-column>
         <mj-image align="center" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" alt="logo" width="160px"></mj-image>
       </mj-column>
@@ -44,8 +44,8 @@
     <mj-section background-color="#270938" padding="0px 25px">
       <mj-column>
         <mj-text align="center" font-family="Open Sans, Helvetica, Arial, sans-serif" color="#ffffff" padding="0">
-          <h1 style="margin:10px 0 17,42px 0;font-size:55px;font-weight:700;line-height:55px;">Votre assistant(e) adminstratif(ve) en alternance</h1>
-          <h1 style="margin:17,42px 0;font-size:55px;font-weight:700;line-height:55px;text-transform:uppercase;">BTS Sam</h1>
+          <h1 style="margin:10px 0 17,42px 0;font-size:40px;font-weight:700;line-height:44px;">Votre assistant(e) adminstratif(ve) en alternance</h1>
+          <h1 style="margin:17,42px 0;font-size:40px;font-weight:700;line-height:55px;text-transform:uppercase;">BTS Sam</h1>
           <p style="margin:10px 0;font-family:Arial, sans-serif;font-size:20px;font-weight:300;line-height:20px;text-transform:uppercase">Alésia Lille</p>
           <p style="margin:10px 0 33px 0;color:#ffffff;">Voici une sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">cvBook :</a></p>
         </mj-text>
@@ -56,13 +56,13 @@
         <mj-spacer height="16px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#23afd0" padding="0">
+    <mj-section background-color="#270938" padding="0">
       <mj-column width="40%" padding="0">
         <mj-image align="left" fluid-on-mobile="true" padding="0" src="https://i.ibb.co/D7qgVpR/assurance092024.jpg" alt="Romane" width="280px"></mj-image>
       </mj-column>
       <mj-column width="60%" padding="25px">
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="20px">
-          <h2 style="margin:10px 0;color:#3f4b5c;font-size:20px;font-weight:700;line-height:24px">Romane 20 ans,</h2>
+          <h2 style="margin:10px 0;color:#BA4995;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
           <p style="margin:10px 0 33px 0;color:#ffffff;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
         </mj-text>
       </mj-column>
@@ -72,13 +72,13 @@
         <mj-spacer height="16px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#23afd0" padding="0" direction="rtl">
+    <mj-section background-color="#270938" padding="0" direction="rtl">
       <mj-column width="40%" padding="0">
         <mj-image align="left" fluid-on-mobile="true" padding="0" src="https://i.ibb.co/D7qgVpR/assurance092024.jpg" alt="Romane" width="280px"></mj-image>
       </mj-column>
       <mj-column width="60%" padding="25px">
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="20px">
-          <h2 style="margin:10px 0;color:#3f4b5c;font-size:20px;font-weight:700;line-height:24px">Romane 20 ans,</h2>
+          <h2 style="margin:10px 0;color:#BA4995;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
           <p style="margin:10px 0 33px 0;color:#ffffff;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
         </mj-text>
       </mj-column>
@@ -88,13 +88,13 @@
         <mj-spacer height="16px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#23afd0" padding="0">
+    <mj-section background-color="#270938" padding="0">
       <mj-column width="40%" padding="0">
         <mj-image align="left" fluid-on-mobile="true" padding="0" src="https://i.ibb.co/D7qgVpR/assurance092024.jpg" alt="Romane" width="280px"></mj-image>
       </mj-column>
       <mj-column width="60%" padding="25px">
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="20px">
-          <h2 style="margin:10px 0;color:#3f4b5c;font-size:20px;font-weight:700;line-height:24px">Romane 20 ans,</h2>
+          <h2 style="margin:10px 0;color:#BA4995;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
           <p style="margin:10px 0 33px 0;color:#ffffff;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
         </mj-text>
       </mj-column>
