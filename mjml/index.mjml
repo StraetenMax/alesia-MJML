@@ -36,7 +36,7 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#15191e">      
-    <mj-section padding="10px 25px">
+    <mj-section background-color="#270938" padding="10px 25px">
       <mj-column>
         <mj-image align="center" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" alt="logo" width="160px"></mj-image>
       </mj-column>
@@ -45,9 +45,8 @@
       <mj-column>
         <mj-text align="center" font-family="Open Sans, Helvetica, Arial, sans-serif" color="#ffffff" padding="0">
           <h1 style="margin:10px 0 17,42px 0;font-size:40px;font-weight:700;line-height:44px;">Votre assistant(e) adminstratif(ve) en alternance</h1>
-          <h1 style="margin:17,42px 0;font-size:40px;font-weight:700;line-height:55px;text-transform:uppercase;">BTS Sam</h1>
-          <p style="margin:10px 0;font-family:Arial, sans-serif;font-size:20px;font-weight:300;line-height:20px;text-transform:uppercase">Alésia Lille</p>
-          <p style="margin:10px 0 33px 0;color:#ffffff;">Voici une sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">cvBook :</a></p>
+          <h1 style="margin:17,42px 0;font-size:40px;font-weight:700;line-height:55px;">BTS Assurance</h1>
+          <p style="margin:10px 0;font-family:Arial, sans-serif;font-size:20px;font-weight:300;line-height:20px;text-transform:uppercase">Une sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">cvBook :</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
