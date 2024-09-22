@@ -26,8 +26,8 @@
       <mj-column width="80%">
         <mj-text align="center" font-family="Open Sans, Helvetica, Arial, sans-serif" color="#ffffff" padding="0">
           <h1 style="margin:5px 0;font-size:40px;font-weight:700;line-height:44px;">Votre assistant(e) adminstratif(ve) en alternance</h1>
-          <h2 style="margin:0px 0;font-size:24px;font-weight:700;line-height:28px;color:#e1e5ea;">BTS Assurance</h2>
-          <p style="margin:5px 0;font-family:Arial, sans-serif;font-size:18px;font-weight:300;line-height:22px;text-transform:uppercase">Une sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">cvBook :</a></p>
+          <h2 style="margin:0px 0;font-size:24px;font-weight:700;line-height:28px;color:#c3cbd5;">BTS Assurance</h2>
+          <p style="margin:5px 0;font-family:Arial, sans-serif;font-size:18px;font-weight:300;line-height:22px;color:#c3cbd5;text-transform:uppercase">Une sélection exclusive de candidat(e)s à retrouver dans notre <a style="color:#ffffff" href="#">cvBook :</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -36,14 +36,14 @@
         <mj-spacer height="16px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#270938" padding="0">
+    <mj-section background-color="#1f262d" padding="0">
       <mj-column width="40%" padding="0">
         <mj-image align="left" fluid-on-mobile="true" padding="0" src="https://i.ibb.co/D7qgVpR/assurance092024.jpg" alt="Romane" width="280px"></mj-image>
       </mj-column>
       <mj-column width="60%" padding="25px">
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="20px">
-          <h2 style="margin:10px 0;color:#BA4995;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
-          <p style="margin:10px 0 33px 0;color:#ffffff;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
+          <h2 style="margin:10px 0;color:#ffffff;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
+          <p style="margin:10px 0 33px 0;color:#c3cbd5;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -52,14 +52,14 @@
         <mj-spacer height="16px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#270938" padding="0" direction="rtl">
+    <mj-section background-color="#1f262d" padding="0" direction="rtl">
       <mj-column width="40%" padding="0">
         <mj-image align="left" fluid-on-mobile="true" padding="0" src="https://i.ibb.co/D7qgVpR/assurance092024.jpg" alt="Romane" width="280px"></mj-image>
       </mj-column>
       <mj-column width="60%" padding="25px">
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="20px">
-          <h2 style="margin:10px 0;color:#BA4995;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
-          <p style="margin:10px 0 33px 0;color:#ffffff;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
+          <h2 style="margin:10px 0;color:#ffffff;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
+          <p style="margin:10px 0 33px 0;color:#c3cbd5;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -68,14 +68,14 @@
         <mj-spacer height="16px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#270938" padding="0">
+    <mj-section background-color="#1f262d" padding="0">
       <mj-column width="40%" padding="0">
         <mj-image align="left" fluid-on-mobile="true" padding="0" src="https://i.ibb.co/D7qgVpR/assurance092024.jpg" alt="Romane" width="280px"></mj-image>
       </mj-column>
       <mj-column width="60%" padding="25px">
         <mj-text align="left" padding="0" font-family="Arial, sans-serif" font-size="16px" font-weight="400" line-height="20px">
-          <h2 style="margin:10px 0;color:#BA4995;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
-          <p style="margin:10px 0 33px 0;color:#ffffff;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
+          <h2 style="margin:10px 0;color:#ffffff;font-size:20px;font-weight:900;line-height:24px">Romane 20 ans,</h2>
+          <p style="margin:10px 0 33px 0;color:#c3cbd5;">CESS + Certificat de qualification agent en accueil et tourisme - Mouscron. Ambitieuse, autonome, perfectionniste, organisée. Je m'adapte facilement, et fait preuve une grande patience.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -112,9 +112,9 @@
     </mj-section>
     <mj-section padding="20px 32px">
       <mj-column width="320px">
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#c3cbd5"> 
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#a5b1c0"> 
           <p style="margin:0px">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;font-size:12px;font-weight:300" href="{{ mirror}}">ici</a>           </p>
-          <p style="margin:0px">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#c3cbd5;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</p>
+          <p style="margin:0px">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#a5b1c0;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</p>
           <p style="margin:0px">Pour vous désinscrire, cliquez <a style="color:#BA4995;font-size:12px;font-weight:300;" href="{{ unsubscribe }}">ici</a></p>
         </mj-text>
       </mj-column>
